@@ -2,7 +2,7 @@
 
 # Frederico Munck 🧑‍💻
 
-*Data Expert | SQL Developer | Data Modeling | Requirement Analyst | Data Analyst | Scrum Master | PostgreSQL | MongoDB | Power BI*
+*Gestão de TI | Modelagem de Dados | Análise de Dados | SQL | ETL | PowerBI*
 
 Sou especialista em dados, modelagem, estruturação, tratamento e análise.
 Tenho mais de 20 de experiência em TI, já atuei como desenvolvedor, analista de requisitos, DBA, SQL developer, analista de dados, scrum master, gestor de projetos, e team lead.
