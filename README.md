@@ -4,8 +4,8 @@
 
 Mais de 20 anos na Área de TI, nas seguintes atividades:
 
-• Atuando no planejamento, organização e execução dos procedimentos pertinentes.
-• Desenvolvimento e implementação de estratégias para melhoria contínua de projetos e produtos, otimização de processos e tomadas de decisões baseadas em dados.
+- • Atuando no planejamento, organização e execução dos procedimentos pertinentes.
+- • Desenvolvimento e implementação de estratégias para melhoria contínua de projetos e produtos, otimização de processos e tomadas de decisões baseadas em dados.
 • Liderança de equipe multidisciplinar, aplicação de treinamento e avaliação de performance.
 • Elaboração de relatórios gerenciais; análise de indicadores (Kpi’s); metas e métricas.
 • Vivência na condução de testes e implantação de sistemas como o Processo Administrativo Digital (PAD) de licenciamento ambiental, pelo INEA.
