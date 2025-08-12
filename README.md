@@ -13,7 +13,7 @@ Mais de 20 anos na Área de TI, nas seguintes atividades:
 - Especialista em Dados, no desenvolvimento de processos ETL, modelagem e administração de bancos de dados, análise e estruturação de dados, automação de pipelines de dados, criação de dashboards para visualização de dados, e uso de SQL e PL/SQL.
 - Habilidade em Gestão de Projetos, abrangendo todo ciclo de vida de projetos de TI, desde o levantamento de requisitos até a entrega final, e implementação de metodologias ágeis, como Scrum.
 
-Gestão de Projetos | Análise de Dados | Business Intelligence | ETL | Big Data | Scrum | Agile | SQL | Data Governance | Transformação Digital | Modelagem de Dados | Cloud Computing | Machine Learning | Segurança da Informação | Liderança | Inovação | Automação | Desenvolvimento de Software | Inteligência Artificial | UX/UI
+Gestão de Projetos | Análise de Dados | Business Intelligence | ETL | Big Data | Scrum | Agile | SQL | Data Governance | Transformação Digital | Modelagem de Dados | Cloud Computing | Machine Learning | Segurança da Informação | Liderança | Inovação | Automação | Desenvolvimento de Software | Inteligência Artificial 
 
 Me adiciona no LinkedIn, https://www.linkedin.com/in/fredmunck/
 
