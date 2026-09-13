@@ -11,7 +11,7 @@ Aplico IA Generativa no meu trabalho com frequência: já desenvolvi agentes e a
 
 O que me diferencia é essa capacidade de transitar entre os dois mundos — entender o negócio com profundidade e entregar tecnicamente. Não apenas analiso: estruturo, desenvolvo e conduzo o time.
 
-Analista de Negócios & Líder Técnico | Dados + IA Aplicada ao Setor Elétrico | SQL · Oracle
+Business Analyst & Tech Lead | Dados para o Setor Elétrico Regulado (ANEEL) | SQL · Oracle · PostgreSQL · ETL | IA Generativa Aplicada a Dados
 
 Me adiciona no LinkedIn, https://www.linkedin.com/in/fredmunck/
 
